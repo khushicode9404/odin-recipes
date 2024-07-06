@@ -1,0 +1,5 @@
+[submodule "recipes/images/odin-recipes"]
+    path = recipes/images/odin-recipes
+    url = https://khushicode9404.github.io/odin-recipes/
+    
+
